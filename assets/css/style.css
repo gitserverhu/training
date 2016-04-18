@@ -2,3 +2,30 @@ body {
 	font-family: Roboto;
 	color: #333;
 }
+
+h1 {
+	font-size: 2em;
+	font-weight: 100;
+	color: #A90000;
+	margin: 0;
+}
+
+p {
+	color: #666;
+}
+
+a, a:visited, a:hover, a:active {
+	color: #2F7DD2;
+	text-decoration: none;
+}
+
+.links {
+	margin-top: 2em;
+	padding-top: 2em;
+	text-align: center;
+	border-top: 1px solid #DDD;
+}
+
+.links a {
+	padding: 10px 20px;
+}
